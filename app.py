@@ -180,7 +180,6 @@ left, center, right = st.columns([1,3,1])
 
 with center:
 
-    st.markdown("<div class='glass'>", unsafe_allow_html=True)
 
     col1, col2, col3 = st.columns(3)
 
